@@ -1,0 +1,213 @@
+@media only screen and (min-width:992px) and (max-width:1199px){
+
+    .container{
+        max-width:960px;
+    }
+
+    .headercontent ul li {
+
+        padding-left: 6px;
+        
+    }
+
+    .headercall a {
+        font-size: 15px;
+    }
+
+    .reactimg1 {
+        width: 45.7%;
+        min-height: 293px;
+    }
+
+    .reviews {
+        width: 46.4%;
+        min-height: 403px;
+    }
+
+}
+
+
+@media only screen and (min-width:768px) and (max-width:992px){
+    .container{
+        max-width:720px;
+    }
+
+    .headercontent ul li {
+        font-size: 13px;
+        padding-left: 5px;
+        
+    }
+
+    .headercall a {
+        font-size: 11.3px;
+    }
+
+    .reactimg1 {
+        width: 45.7%;
+        min-height: 315px;
+    }
+
+    .reactimg1 p {
+        font-size: 14px;
+    }
+
+    .reviews {
+        width: 96.4%;
+    }
+}
+
+
+@media only screen and (min-width:540px) and (max-width:767px){
+    .container{
+        width:100%;
+        padding:0px 15px;
+    }
+
+    .headercontent ul li {
+        font-size: 11px;
+        padding-left: 5px;
+    }
+
+    .headercall a {
+        font-size: 10px;
+    }
+
+    .headercall img {
+        width: 30px;
+    }
+
+    .banner {
+        background: #172b4d url(../images2/banner.jpg);
+    }
+
+    .bannercontent {
+        padding-top: 0px;
+        padding-bottom:50px;
+    }
+
+    .bannercontent {
+        width: 100%;
+    }
+    
+    .bannerform {
+        width: 100%;
+    }
+
+    .form-control {
+        width: 100%;
+    }
+
+    .form-content {
+        margin-left:0px;
+    }
+
+    .reactimg1 p {
+        font-size: 13px;
+    }
+
+    .about-content {
+        width: 100%;
+    }
+    
+    .about-image {
+        width: 100%;
+    }
+    .about-image img {
+        padding-left: 0px;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .reactimg1 {
+        width: 44.3%;
+        margin: 18px;
+        min-height: 315px;
+    }
+
+    .reviews {
+        width: 95.3%;
+    }
+}
+
+
+@media only screen and (max-width:512px){
+    .container{
+        width:100%;
+        padding:0px 15px;
+    }
+
+    .headercontent ul li {
+        font-size: 8px;
+        padding-left: 5px;
+        padding-top:0px;
+    }
+
+    .headercall {
+        padding-left: 0px;
+    }
+
+    .headercall img {
+        width: 20px;
+        top:0px;
+        right: 4px;
+    }
+
+    .headercall a {
+        font-size: 10px;
+    }
+
+    .bannercontent {
+        padding-top: 0px;
+        padding-bottom:50px;
+    }
+
+    .bannercontent {
+        width: 100%;
+    }
+    
+    .bannerform {
+        width: 98%;
+    }
+    
+    .reactimg1 {
+        width: 92%;
+    }
+
+    .about-content {
+        width: 100%;
+    }
+    
+    .about-image {
+        width: 100%;
+    }
+    .about-image img {
+        padding-left: 0px;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .price {
+        font-size: 37px;
+    }
+
+    .reviews {
+        width: 100%;
+        border-radius: 12px;
+        margin: 15px 0px;
+        padding: 10px;
+    }
+
+    .career-img img {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .trainers {
+        width: 100%;
+    }
+
+}
